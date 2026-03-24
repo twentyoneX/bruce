@@ -170,8 +170,8 @@ static const uint8_t MISO = SPI_SCK_PIN;
 // Buttons & Navigation
 #define BTN_ALIAS "\"OK\""
 #define HAS_3_BUTTONS
-#define SEL_BTN 16
-#define UP_BTN 0
+#define SEL_BTN 0
+#define UP_BTN 16
 #define DW_BTN 14
 #define BTN_ACT LOW
 
